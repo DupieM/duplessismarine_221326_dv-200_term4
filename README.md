@@ -11,7 +11,7 @@
   <h3 align="center">CodeGenius </h3>
 
   <p align="center">
-    The Future of Development QNA for anyone with a Coding problem 
+    The Future of Development Q&A for anyone with a Coding problem 
     <br />
     <a href="https://github.com/CSWilder02/Term-4-Group-2---Project/tree/main/Class%20Work"><strong>Explore the docs »</strong></a>
     <br />
@@ -32,7 +32,7 @@
 ## About this Project
 
 
-CodeGenius is a robust and fully-developed Full MERN Stack Application that serves as a dynamic platform for fostering collaboration between students and lecturers. With a focus on facilitating the exchange of development-specific knowledge and expertise, CodeGenius empowers users to post questions, provide answers, and engage in a rich learning environment.
+CodeGenius is a robust and fully-developed Full MERN Stack Application that serves as a dynamic platform for fostering collaboration between students and lecturers. The focus is on facilitating the exchange of development-specific knowledge and expertise, CodeGenius empowers users to post questions, provide answers, and engage in a rich learning environment.
 
 ## Table of Contents
 
@@ -53,13 +53,14 @@ CodeGenius is a robust and fully-developed Full MERN Stack Application that serv
 
 
 ### Built With
-* [![React][React.js]][React-url]
-* [![Express][Express.js]][Express-url]
 * [![Mongodb][MongoDB]][MongoDB-url]
+* [![Express][Express.js]][Express-url]
+* [![React][React.js]][React-url]
+* [![nodemon][Nodemon]][Nodemon-url]
+* <a href="https://www.w3schools.com/css/">![Static Badge](https://img.shields.io/badge/Css-url?style=for-the-badge&logo=Cascading%20Style%20Sheets&color=blue)</a>
+* <a href="https://www.w3schools.com/js/">![Static Badge](https://img.shields.io/badge/Javascript-url?style=for-the-badge&logo=JS&color=yellow)</a>
 * [![jwt][JWT]][jwt-url]
 * [![bootstrap][Bootstrap]][Bootstrap-url]
-* [![nodemon][Nodemon]][Nodemon-url]
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
 ### Prerequisites
@@ -85,8 +86,6 @@ For development, you require to create an account on [Mongodb](https://www.mongo
    ```sh
    npm run dev
    ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## UI Designs
 
@@ -115,25 +114,28 @@ Create Question Page
     <a href="https://github.com/eddiesosera/Term-4-Group-2---Project">
       <img src="https://github.com/eddiesosera.png" alt="eddie Sosera" width="100px">
     </a>
-    <br>
     <sub>Eddie Sosera</sub>
   </div>
+
+  </br>
   
   <div style="text-align: center;">
     <a href="https://github.com/CSWilder02/Term-4-Group-2---Project">
       <img src="https://github.com/CSWilder02.png" alt="CS Strijdom" width="100px">
     </a>
-    <br>
     <sub>CS Strijdom</sub>
   </div>
   
+  </br>
+
   <div style="text-align: center;">
     <a href="https://github.com/DupieM/Term-4-Group-2---Project">
       <img src="https://github.com/DupieM.png" alt="Mariné Du Plessis" width="100px">
     </a>
-    <br>
     <sub>Mariné Du Plessis</sub>
   </div>
+
+  </br>
   
   <div style="text-align: center;">
     <a href="https://github.com/BladeyBoy54/Term-4-Group-2---Project">
@@ -144,11 +146,8 @@ Create Question Page
   </div>
 </div>
 
----Link to other dependencies and tutorials---
 
-
-
-## Features
+## Features and Functionality
 
 #### 1. **Profiles and Reliability Scores**
 
@@ -170,7 +169,6 @@ Users can post questions related to software development, coding, or any other r
 
 CodeGenius allows users to save their favorite questions for future reference. Additionally, the commenting feature encourages interactive discussions, making it easy to exchange ideas, provide clarifications, and gain deeper insights into various topics.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Development Process
 
@@ -182,18 +180,23 @@ Below you can see a diagram of our Object Mapping that we did for the website.
 
 ![image6](Readme_Images/Objet_Mapping_&_DB_Archtecture.jpg)
 
+
 ## Final Outcome
 ### Demo Video
 
-[View Demonstration](https://youtu.be/K2TSUsroUAA)
+[Demonstration Video - CodeGenius](https://drive.google.com/file/d/1kL4SyLwrAQ0pe6t43Vzk96H6OcDgO4n4/view?usp=sharing)
 
-### Deployement Link
+### Deployment Link
 
-[Deploy on Haroku](https://codegenius-1ab16d917280.herokuapp.com)
+[Deploy on Heroku](https://codegenius-1ab16d917280.herokuapp.com)
 
 ## Conclusion
 ### License
 Rights reserved © 2023
+
+### Author
+**Mariné du Plessis** </br>
+[Gmail](221326@virtualwindow.co.za)
 
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
